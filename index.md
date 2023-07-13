@@ -17,7 +17,7 @@
 Interaktívna mapa obcí s informáciami o  lokálnom vykurovaní rodinných domov
 (počet rodinných domov, počet rodinných domov s jednotlivými druhmi palív).
 Ide o údaje zo Sčitania  obyvateľov, bytov a domov 2021.
-- Bratislava, Trnava, Nitra [mapa] (orko_v8_z1.html)
-- Trenčín, Žilina [mapa] (orko_v8_z2.html)
-- Banská Bystrica [mapa] (orko_v8_z3.html)
-- Košice, Prešov [mapa] (orko_v8_z4.html)
+- Bratislava, Trnava, Nitra [mapa](orko_v8_z1.html)
+- Trenčín, Žilina [mapa](orko_v8_z2.html)
+- Banská Bystrica [mapa](orko_v8_z3.html)
+- Košice, Prešov [mapa](orko_v8_z4.html)
